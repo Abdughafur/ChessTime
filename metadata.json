@@ -1,0 +1,6 @@
+{
+  "name": "ChessTime",
+  "description": "Professional digital chess clock application for over-the-board chess games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
