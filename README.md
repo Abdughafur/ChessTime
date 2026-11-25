@@ -24,10 +24,26 @@ Built with Kotlin and Jetpack Compose for Android.
 
 ## Package
 
-com.abdu.chesstime
+`com.abdu.chesstime`
+
+## Contributing
+
+Contributions are welcome!
+
+If you would like to contribute to ChessTime:
+
+1. Fork this repository.
+2. Create a branch for your changes.
+3. Make your changes and commit them.
+4. Push your branch to your fork.
+5. Open a Pull Request targeting the `chess-2` branch.
+
+All contributions must be submitted through Pull Requests to the `chess-2` branch. Contributions will be reviewed before being merged.
 
 ## License
 
 MIT License
 
-Created by Abdughafur
+## Author
+
+**Abdughafur Khujzoda**
